@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    /* padding-top: 10%; */
+    overflow: hidden;
+    padding: 5% 5% 5% 5%;
+    
+}
+.map {
+    border: 1px solid;
+
+}
+.places{
+    height: 100%;
+    max-width: 40vw;
+    margin-right: 3%;
+}
